@@ -1,0 +1,8 @@
+*.csv
+data/
+.DS_Store
+..
+.idea
+__pycache__/
+lightning_logs/
+models/
